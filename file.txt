@@ -2,3 +2,5 @@
 "Coffee recipe" 
 "Fixed coffee typo" 
 "Lunch menu" 
+"Ping pong rules" 
+"Game scores" 
