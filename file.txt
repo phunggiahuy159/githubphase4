@@ -4,3 +4,4 @@
 "Lunch menu" 
 "Ping pong rules" 
 "Game scores" 
+"Fix coffee recipe" 
