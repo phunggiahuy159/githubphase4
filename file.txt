@@ -1,2 +1,3 @@
 "Initial" 
 "Coffee recipe" 
+"Fixed coffee typo" 
